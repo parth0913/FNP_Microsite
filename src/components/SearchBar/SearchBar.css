@@ -1,0 +1,11 @@
+.search{
+    background-image: url("/public/images/search-bar.png");
+    background-repeat: no-repeat;
+    background-position: 1%;
+  }
+  
+  .form-control {
+    padding: 10px 30px;
+    right: 35%;
+    position: relative;
+}

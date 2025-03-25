@@ -1,0 +1,7 @@
+.navbar {
+    display: flex;
+    gap: 16px; 
+    align-items: center;
+    padding: 12px 40px;
+  }
+  

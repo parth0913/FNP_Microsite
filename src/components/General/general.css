@@ -1,0 +1,77 @@
+.container {
+    max-width: 100%;
+    margin: 10px auto;
+    padding: 2px 31px;
+}
+
+.flex {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    
+}
+
+.heading{
+    justify-content: center;
+    display: flex;
+    position: absolute;
+}
+
+.gap{
+    gap: 18px;
+}
+
+.grid-3-col {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); 
+    grid-gap: 20px; 
+  }
+.grid-6-col {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr); 
+    grid-gap: 20px; 
+  }
+
+  .flowers-row {
+    width: 309%;
+}
+/* .row {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr); 
+    grid-gap: 5px;
+} */
+
+.box {
+    background-image: url(C:\Users\Parth\Downloads\my-app-master\my-app-master\public\images\bg.webp);
+    background-size: cover;
+    padding: 100px;
+    border-radius: 0px;
+    text-align: center;
+    width: 100%;
+  }
+
+  .Surprise-bg{
+    background-image: url(https://beta.fnp.com/assets/images/custom/flowers_24/Plan%20the%20Perfect%20Surprise/Background.jpg);
+    background-size: cover;
+    padding: 100px;
+    border-radius: 0px;
+    text-align: center;
+    width: 100%;
+  }
+
+  .bg{
+    background-image: none;
+    background-size: cover;
+    padding: 100px;
+    border-radius: 0px;
+    text-align: center;
+    width: 100%;
+  }
+
+  .card-img, .card-img-top {
+    border-radius: 20px;
+  }
+
+  .category-gap{
+    gap: 24px;
+  }

@@ -1,0 +1,24 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.image {
+  width: 25px;  
+  height: 25px;
+  margin-bottom: 0;
+  object-fit: contain;
+  cursor: pointer;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+  font-size: 15px;
+}
+
+.dropdownContainer {
+  margin-top: 0;
+}

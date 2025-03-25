@@ -1,0 +1,19 @@
+.vertical-line {
+    content: "";
+    background-color: #0000001a;
+    position: absolute;
+    width: 1px;
+    height: 53px;
+    top: 41px;
+    left: 9%;
+    display: block;
+  }
+
+  .navbar-brand{
+    padding: 12px 40px;
+  }
+
+  .navbar-brand img{
+    position: relative;
+    left: 0;
+  }

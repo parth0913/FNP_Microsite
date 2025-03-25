@@ -1,0 +1,28 @@
+.Parent-Container{
+    padding: 0;
+    cursor: pointer;
+    position: relative;
+    right: 60%;
+  }
+
+  .location{
+    width: 10%;
+  }
+
+  .state{
+    font-size: 20px;
+  }
+
+  .p-4 {
+    padding: 0 !important;
+}
+
+.slector h2{
+  font-size: 20px;
+  margin-bottom: 0 !important;
+}
+
+.slector p{
+  margin-bottom: 0 !important;
+  font-size: small;
+}
